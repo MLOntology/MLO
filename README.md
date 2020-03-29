@@ -15,10 +15,9 @@ The MLO is built from six classes of hte highest level, which can be seen in the
 
 The technical responsible for the project are:
 
-Dr. Julião Braga, UMackenzie, SP Brazil
- http://www.braga.net.br
-Dr. Francisco Regateiro, Instituto Superior Técnico, ULisboa, Portugal
-Dr. Joaquim Ramos Dias, Instituto Superior Técnico, ULisboa, Portugal
+- Dr. Julião Braga, UMackenzie, SP Brazil (http://www.braga.net.br)
+- Dr. Francisco Regateiro, Instituto Superior Técnico, ULisboa, Portugal
+- Dr. Joaquim Ramos Dias, Instituto Superior Técnico, ULisboa, Portugal
 
 If you want more information, please email to **info at a2rd dot net dot br**.
 
