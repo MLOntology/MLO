@@ -11,7 +11,7 @@ The **ml-ontology-202003010800-04.owl** file (Protégé compatible), is an ontol
 
 The MLO is built from six classes, which can be seen in the figure below:
 
-![](http://a2rd.net.br/img/mlontologyTopClasses.jpg | width=100px)
+<img src="http://a2rd.net.br/img/mlontologyTopClasses.jpg" width="100" height="581">
 
 If you want more information, please email to **info at a2rd dot net dot br**.
 
