@@ -10,7 +10,7 @@ The **ml-ontology-202003010800-05.owl** file (Protégé compatible), is an ontol
 - Class count: 1,972
 - Object property count: 47
 
-The MLO is built from six classes of hte highest level, which can be seen in the figure below:
+The MLO is built from six classes of the highest level, which can be seen in the figure below:
 
 <img src="http://a2rd.net.br/img/mlontologyTopClasses.jpg" width="600px" height="349px">
 
