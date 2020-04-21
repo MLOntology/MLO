@@ -12,7 +12,7 @@ The **ml-ontology-202004141049-08.owl** file (Protégé compatible), is an ontol
 
 The MLO is built from six classes of the highest level, which can be seen in the figure below:
 
-<img src="http://a2rd.net.br/img/mlontologyTopClasses.jpg" width="600px" height="349px">
+<img src="http://a2rd.net.br/img/mlontologyTopClasses600.jpg" width="600px" height="349px">
 
 The technical responsible for the project are:
 
