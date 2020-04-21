@@ -2,13 +2,13 @@
 
 Sorry, but this README.md is under construction. 
 
-The **ml-ontology-202003010800-05.owl** file (Protégé compatible), is an ontology in the Machine Learning domain, including algorithms, problems, tools, and other associated features.
+The **ml-ontology-202004141049-08.owl** file (Protégé compatible), is an ontology in the Machine Learning domain, including algorithms, problems, tools, and other associated features.
 
 #### In this version, here are some of the Ontology Metrics in Protégé's Active Ontology.
-- Axiom: 9,246
-- Logical axiom count: 4,019
-- Class count: 2,015
-- Object property count: 48
+- Axiom: 10,024
+- Logical axiom count: 4,368
+- Class count: 2,221
+- Object property count: 54
 
 The MLO is built from six classes of the highest level, which can be seen in the figure below:
 
