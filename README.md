@@ -14,6 +14,16 @@ The MLO is built from six classes of the highest level, which can be seen in the
 
 <img src="http://a2rd.net.br/img/mlontologyTopClasses600.jpg" width="600px" height="349px">
 
+#### The main characteristics of these seven highest level classes are:
+- **Algorithms:** A set of rules that precisely defines a sequence of operations, which would include all computer programs, including programs that do not perform numeric calculations, and (for example) any prescribed bureaucratic procedure. 
+- **Applications:** the action of putting something into operation.
+- **Categories:} a procedure, technique, or technique of doing something, especially in accordance with a definite plan.
+- **Dependencies:** What are the prerequisites for solving an algorithm or problem and what are the requirements for a tool to be executed.
+- **Dictionary:** Acronyms, nicknames and texts for which an interpretation is required.
+- **FrameWorks:** A set of tools and associated utilities for solving and implementing algorithms, problems or applications
+- **Involved:** People or institutions that created and improved the available resources to facilitate the use and application of Machine Learning. 
+
+
 The technical responsible for the project are:
 
 - [Julião Braga](http://www.braga.net.br), UMackenzie, SP Brazil 
