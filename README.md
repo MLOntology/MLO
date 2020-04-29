@@ -44,6 +44,28 @@ partial view of SKAU can be seen in Figure 2.
  Figure 2 SKAU. Partial View. Source: (BRAGA, 2019)
 </div>
 
+The agents of the proposed model are part of another model called Autonomous Architecture
+Over Restricted Domains (A2RD) that makes use of a knowledge base, whose content is
+formed by other ontology bases, among other forms of knowledge representation (BRAGA,
+2019). The other components of the partial SKAU environment can be ignored in this context.
+An ontology like MLO is very large and complex. The chances of success in an undertaking like
+this depend on the collaboration of two key stakeholders: (a) the human being, collaborating in
+the construction, updating and/or complement the MLO through small others ontologies and
+(b) autonomous agents dedicated to ensuring the construction of ontologies from unstructured
+databases, such as manuals, Web sites, among others, ensuring that all information collected
+and of interest to the MLO is properly updated. Agents are exclusive collaborators with very
+specific guidelines. Therefore, they can only serve the production of axioms in the .owl format.
+Humans can collaborate over .owl files and benefit from the entire knowledge base in the SKAU
+environment.
+
+The collaboration mechanism is an extremely sensitive process and must follow well-established
+rules. For this reason, a model was designed as shown in the Figure 3.
+
+<div align="center">
+  <img src="http://a2rd.net.br/img/ColaboratorModel.jpg">.
+  
+ Figure 3 Collaboration Model
+</div>
 
 ## The technical responsible for the project are:
 
