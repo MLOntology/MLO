@@ -1,5 +1,7 @@
 # Machine Learning Ontology Research
 
+[Julião Braga](http://www.braga.net.br), [Francisco Regateiro](https://fenix.tecnico.ulisboa.pt) and [Joaquim Ramos Dias](https://fenix.tecnico.ulisboa.pt/) 
+
 ## 1. Preliminaries
 
 The **ml-ontology-202004211011-09.owl** file (Protégé compatible), is an ontology in the Machine Learning domain, including algorithms, problems, tools, and other associated features.
@@ -90,12 +92,12 @@ The representation of the knowledge base, in the SKAU model as a set of ontologi
 the .jason format, is appropriate to make the process of use by the A2RD agents and inference
 devices more effective and faster.
 
-## The technical responsible for the project are:
-
-- [Julião Braga](http://www.braga.net.br), UMackenzie, SP Brazil 
-- [Francisco Regateiro](https://fenix.tecnico.ulisboa.pt/homepage/ist13522), Instituto Superior Técnico, ULisboa, Portugal 
-- [Joaquim Ramos Dias](https://fenix.tecnico.ulisboa.pt/homepage/ist13137), Instituto Superior Técnico, ULisboa, Portugal 
-
 If you want more information, please email to **info at a2rd dot net dot br**.
+
+## 4. References
+
+BRAGA, J. Ambiente para Aquisição de Conhecimento por Agentes em Domínios Restritos na
+Infraestrutura da Internet. Tese (Doutorado) — Instituto Superior Técnico & Universidade
+Presbiteriana Mackenzie, 2019.
 
 **Content license:** [Creative Commons 4.0 BY](http://creativecommons.org/licenses/by/4.0/) 
