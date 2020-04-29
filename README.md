@@ -65,7 +65,7 @@ The collaboration mechanism is an extremely sensitive process and must follow we
 rules. For this reason, a model was designed as shown in the Figure 3.
 
 <div align="center">
-  <img src="http://a2rd.net.br/img/ColaboratorModel.jp">.
+  <img src="http://a2rd.net.br/img/ColaboratorModel.jpg">.
   
  Figure 3 Collaboration Model
 </div>
@@ -84,7 +84,7 @@ where m is a number that identifies any of the files. The list of the **.json** 
 procedures on the files created by the collaborators can be seen in Figure 4.
 
 <div align="center">
-  <img src="http://a2rd.net.br/img/SKAUxmlo.jp">.
+  <img src="http://a2rd.net.br/img/SKAUxmlo.jpg">.
   
  Figure 4 The relationship between **.json** files and the SKAU environment knowledge base
 </div>
