@@ -17,9 +17,9 @@ classes visible in the figure below:
 
 <p align="center">
 <img src="http://a2rd.net.br/img/mlontologyTopClasses600.jpg" width="600px" height="349px">
-  
-  Figure 1. Top level classes of the Machine Learning Ontology
 </p>
+<center>Figure 1. Top level classes of the Machine Learning Ontology</center>
+
 ### The main characteristics of these seven highest level classes are:
 - **Algorithms:** A set of rules that precisely defines a sequence of operations, which would include all computer programs, including programs that do not perform numeric calculations, and (for example) any prescribed bureaucratic procedure. 
 - **Applications:** the action of putting something into operation.
