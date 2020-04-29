@@ -1,6 +1,6 @@
 # Machine Learning Ontology Research
 
-## This README.md is under construction. 
+## Preliminaries
 
 The **ml-ontology-202004211011-09.owl** file (Protégé compatible), is an ontology in the Machine Learning domain, including algorithms, problems, tools, and other associated features.
 
@@ -10,10 +10,15 @@ The **ml-ontology-202004211011-09.owl** file (Protégé compatible), is an ontol
 - Class count: 2,282
 - Object property count: 56
 
-The MLO is built from six classes of the highest level, which can be seen in the figure below:
+## Introduction
 
+Machine Learning Ontology (MLO) is built using Protégé and is based on seven higher level
+classes visible in the figure below:
+
+<p align="center">
 <img src="http://a2rd.net.br/img/mlontologyTopClasses600.jpg" width="600px" height="349px">
-
+  Figure 1. Top level classes of the Machine Learning Ontology
+</p>
 ### The main characteristics of these seven highest level classes are:
 - **Algorithms:** A set of rules that precisely defines a sequence of operations, which would include all computer programs, including programs that do not perform numeric calculations, and (for example) any prescribed bureaucratic procedure. 
 - **Applications:** the action of putting something into operation.
