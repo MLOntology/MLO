@@ -1,6 +1,6 @@
 # Machine Learning Ontology Research
 
-## Preliminaries
+## 1. Preliminaries
 
 The **ml-ontology-202004211011-09.owl** file (Protégé compatible), is an ontology in the Machine Learning domain, including algorithms, problems, tools, and other associated features.
 
@@ -10,7 +10,7 @@ The **ml-ontology-202004211011-09.owl** file (Protégé compatible), is an ontol
 - Class count: 2,282
 - Object property count: 56
 
-## Introduction
+## 2. Introduction
 
 Machine Learning Ontology (MLO) is built using Protégé and is based on seven higher level
 classes visible in the figure below:
@@ -21,7 +21,8 @@ classes visible in the figure below:
   Figure 1. Top level classes of the Machine Learning Ontology
 </div>
 
-### The main characteristics of these seven highest level classes are:
+The main characteristics of these seven highest level classes are:
+
 - **Algorithms:** A set of rules that precisely defines a sequence of operations, which would include all computer programs, including programs that do not perform numeric calculations, and (for example) any prescribed bureaucratic procedure. 
 - **Applications:** the action of putting something into operation.
 - **Dependencies:** What are the prerequisites for solving an algorithm or problem and what are the requirements for a tool to be executed.
@@ -30,8 +31,21 @@ classes visible in the figure below:
 - **Involved:** People or institutions that created and improved the available resources to facilitate the use and application of Machine Learning. 
 - **Types:** Usual classification of Machine Learning algorithms..
 
+## 3. Collaboration in the MLO construction
 
-### The technical responsible for the project are:
+One of the main motivations for the creation of Machine Learning Ontology (MLO) is a
+model to support autonomous agents in applications over the Internet Infrastructure, called
+Structure for Knowledge Acquisition, Use, Learning and Collaboration (SKAU). A
+partial view of SKAU can be seen in Figure 2.
+
+<div align="center">
+  <img src="http://a2rd.net.br/img/partialSKAU.jpg">.
+  
+ Figure 2 SKAU. Partial View. Source: (BRAGA, 2019)
+</div>
+
+
+## The technical responsible for the project are:
 
 - [Julião Braga](http://www.braga.net.br), UMackenzie, SP Brazil 
 - [Francisco Regateiro](https://fenix.tecnico.ulisboa.pt/homepage/ist13522), Instituto Superior Técnico, ULisboa, Portugal 
