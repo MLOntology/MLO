@@ -17,6 +17,7 @@ classes visible in the figure below:
 
 <p align="center">
 <img src="http://a2rd.net.br/img/mlontologyTopClasses600.jpg" width="600px" height="349px">
+  
   Figure 1. Top level classes of the Machine Learning Ontology
 </p>
 ### The main characteristics of these seven highest level classes are:
