@@ -67,6 +67,29 @@ rules. For this reason, a model was designed as shown in the Figure 3.
  Figure 3 Collaboration Model
 </div>
 
+Both of collaborators, human beings and autonomous agents can create ontologies using any
+construction tool, as long as they use the Web Ontology Language (OWL) and the seven
+highest level classes included in the MLO organization as discussed above.
+
+Each collaborator has a unique number that identifies and authorizes operations on MLO
+axioms (inclusion, updating, exclusion). This number is previously defined by the project
+coordinator. Thus, the collaborators’ files will be identified with the name mloCn.owl, where n
+is the number that identifies the collaborator. The collaborators’ productions are submitted
+to a set of procedures that appropriately create, add or change axioms stored in the SKAU
+environment knowledge base, in the form of .jason files and which are named mlom.jason,
+where m is a number that identifies any of the files. The list of the .jason files produced by the
+procedures on the files created by the collaborators can be seen in Figure 4.
+
+<div align="center">
+  <img src="http://a2rd.net.br/img/SKAUxmlo.jpg">.
+  
+ Figure 4 The relationship between .jason files and the SKAU environment knowledge base
+</div>
+
+The representation of the knowledge base, in the SKAU model as a set of ontologies, some in
+the .jason format, is appropriate to make the process of use by the A2RD agents and inference
+devices more effective and faster.
+
 ## The technical responsible for the project are:
 
 - [Julião Braga](http://www.braga.net.br), UMackenzie, SP Brazil 
