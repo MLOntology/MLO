@@ -64,7 +64,11 @@ environment.
 The collaboration mechanism is an extremely sensitive process and must follow well-established
 rules. For this reason, a model was designed as shown in the Figure 3.
 
-
+<div align="center">
+  <img src="http://a2rd.net.br/img/ColaboratorModel.jpg">.
+  
+ Figure 3 Collaboration Model
+</div>
 
 Both of collaborators, human beings and autonomous agents can create ontologies using any
 construction tool, as long as they use the **Web Ontology Language** (OWL) and the seven
