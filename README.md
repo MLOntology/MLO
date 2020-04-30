@@ -1,5 +1,5 @@
 
-# Machine Learning Ontology Research
+<h1>Machine Learning Ontology Research</h1>
 
 [Julião Braga](http://www.braga.net.br), [Francisco Regateiro](https://fenix.tecnico.ulisboa.pt/homepage/ist13522) and [Joaquim Ramos Dias](https://fenix.tecnico.ulisboa.pt/homepage/ist13137) 
 
