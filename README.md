@@ -91,7 +91,7 @@ procedures on the files created by the collaborators can be seen in Figure 4.
 </div>
 
 The representation of the knowledge base, in the SKAU model as a set of ontologies, some in
-the **.json** format, is appropriate to make the process of use by the A2RD agents and inference
+the **.json** format, is appropriate to make the process of use by the A2RD agents and reasoning
 devices more effective and faster.
 
 If you want more information, please email to **info at a2rd dot net dot br**.
