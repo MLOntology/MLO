@@ -31,7 +31,7 @@ The main characteristics of these seven highest level classes are:
 - **Applications:** the action of putting something into operation.
 - **Dependencies:** What are the prerequisites for solving an algorithm or problem and what are the requirements for a tool to be executed.
 - **Dictionary:** Acronyms, nicknames and texts for which an interpretation is required.
-- **FrameWorks:** A set of tools and associated utilities for solving and implementing algorithms, problems or applications
+- **Frameworks:** A set of tools and associated utilities for solving and implementing algorithms, problems or applications
 - **Involved:** People or institutions that created and improved the available resources to facilitate the use and application of Machine Learning. 
 - **Types:** Usual classification of Machine Learning algorithms..
 
