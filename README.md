@@ -33,7 +33,7 @@ The main characteristics of these seven highest level classes are:
 - **Dictionary:** Acronyms, nicknames and texts for which an interpretation is required.
 - **Frameworks:** A set of tools and associated utilities for solving and implementing algorithms, problems or applications
 - **Involved:** People or institutions that created and improved the available resources to facilitate the use and application of Machine Learning. 
-- **Types:** Usual classification of Machine Learning algorithms..
+- **MLTypes:** Usual classification of Machine Learning algorithms..
 
 ## 3. Collaboration in the MLO construction
 
