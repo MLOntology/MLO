@@ -33,7 +33,7 @@ The main characteristics of these seven highest level classes are:
 - **Dictionary:** Acronyms, nicknames and texts for which an interpretation is required.
 - **Frameworks:** A set of tools and associated utilities for solving and implementing algorithms, problems or applications
 - **Involved:** People or institutions that created and improved the available resources to facilitate the use and application of Machine Learning. 
-- **MLTypes:** Usual classification of Machine Learning algorithms.  Although, more recently, the literature is adopting only three types of Machine Learning -- (a) SupervisedLearning, (b) Unsupervised Learning, (c) ReinforcementLearning -- we are initially adopting two additional types -- (d) AutoML, (e) Semi-Supervised Learning -- which eventually may show changes in types,  for less or for more depending on objects added or removed (Figure 1).
+- **MLTypes:** Usual classification of Machine Learning algorithms.  Although, more recently, the literature is adopting only three types of Machine Learning -- (a) SupervisedLearning, (b) Unsupervised Learning, (c) ReinforcementLearning -- we are initially adopting two additional types -- (d) AutoML, (e) Semi-Supervised Learning -- which eventually may show changes in types,  for less or for more depending on objects added or removed (Figure 2).
 
 <div align="center">
   <img src="http://a2rd.net.br/img/P5-MLTypesHierarchy.jpg">.
@@ -51,7 +51,7 @@ One of the main motivations for the creation of Machine Learning Ontology (MLO) 
  Figure 3 SKAU. Partial View. Source: (BRAGA, 2019)
 </div>
 
-The agents of the SKAU model are part of another model called **Autonomous Architecture Over Restricted Domains** (A2RD) thatthat make use of and update data from a knowledge base, whose content is formed by ontology bases (BRAGA, 2019). A2RD is a model in four layers, in which different types of agents live with common objectives. An A2RD can host in the domain of an Autonomous System (AS) which, together with other ASes form the Internet Infrastructure. The other components of the partial SKAU environment (Fig. 2) can be ignored in this context.
+The agents of the SKAU model are part of another model called **Autonomous Architecture Over Restricted Domains** (A2RD) thatthat make use of and update data from a knowledge base, whose content is formed by ontology bases (BRAGA, 2019). A2RD is a model in four layers, in which different types of agents live with common objectives. An A2RD can host in the domain of an Autonomous System (AS) which, together with other ASes form the Internet Infrastructure. The other components of the partial SKAU environment (Fig. 3) can be ignored in this context.
 
 An ontology like MLO is very large and complex. The chances of success in an undertaking like this depend on the collaboration of two key stakeholders: (a) the human being, collaborating in the construction, updating and/or complement the MLO through small others ontologies and (b) specialized autonomous agents dedicated to ensuring the construction of ontologies from unstructured databases, such as manuals, Web sites, among others, ensuring that all information collected and of interest to the MLO is properly updated. Agents are exclusive collaborators with very specific guidelines. Therefore, they can only serve the production of axioms in the **.owl** format.
 Humans can collaborate over **.owl** files and benefit from the entire knowledge base in the SKAU environment.
