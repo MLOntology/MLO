@@ -6,12 +6,12 @@
 
 ## 1. Preliminaries
 
-The **ml-ontology-202004211011-09.owl** file (Protégé compatible), is an ontology in the Machine Learning domain, including algorithms, problems, tools, and other associated features. This ontology is being developed in an interactive collaboration process involving human beings and software agents.
+The **ml-ontology-202010021305-11.owl** file (Protégé 5 compatible), is an ontology in the Machine Learning domain, including algorithms, problems, tools, and other associated features. This ontology is being developed in an interactive collaboration process involving human beings and software agents.
 
 ### In this version, here are some of the Ontology Metrics in Protégé's Active Ontology.
-- Axiom: 10,690
-- Logical axiom count: 4,892
-- Class count: 2,282
+- Axiom: 1,877
+- Logical axiom count: 1,157
+- Class count: 433
 - Object property count: 56
 
 ## 2. Introduction
@@ -41,9 +41,9 @@ The main characteristics of these seven highest level classes are:
  Figure 2 Mahine Line Types in MLO
 </div>
 
-## 3. Collaboration in the MLO construction
+## 3. Collaboration in the MLOnto construction
 
-One of the main motivations for the creation of Machine Learning Ontology (MLO) is a model to support autonomous agents in applications over the Internet Infrastructure, called **Structure for Knowledge Acquisition, Use, Learning and Collaboration** (SKAU). A partial view of SKAU can be seen in Figure 3.
+One of the main motivations for the creation of Machine Learning Ontology (MLOnto) is a model to support autonomous agents in applications over the Internet Infrastructure, called **Structure for Knowledge Acquisition, Use, Learning and Collaboration** (SKAU). A partial view of SKAU can be seen in Figure 3.
 
 <div align="center">
   <img src="http://a2rd.net.br/img/partialSKAU.jpg">.
@@ -53,7 +53,7 @@ One of the main motivations for the creation of Machine Learning Ontology (MLO) 
 
 The agents of the SKAU model are part of another model called **Autonomous Architecture Over Restricted Domains** (A2RD) thatthat make use of and update data from a knowledge base, whose content is formed by ontology bases (BRAGA, 2019). A2RD is a model in four layers, in which different types of agents live with common objectives. An A2RD can host in the domain of an Autonomous System (AS) which, together with other ASes form the Internet Infrastructure. The other components of the partial SKAU environment (Fig. 3) can be ignored in this context.
 
-An ontology like MLO is very large and complex. The chances of success in an undertaking like this depend on the collaboration of two key stakeholders: (a) the human being, collaborating in the construction, updating and/or complement the MLO through small others ontologies and (b) specialized autonomous agents dedicated to ensuring the construction of ontologies from unstructured databases, such as manuals, Web sites, among others, ensuring that all information collected and of interest to the MLO is properly updated. Agents are exclusive collaborators with very specific guidelines. Therefore, they can only serve the production of axioms in the **.owl** format.
+An ontology like ***MLOnto*** is very large and complex. The chances of success in an undertaking like this depend on the collaboration of two key stakeholders: (a) the human being, collaborating in the construction, updating and/or complement the MLO through small others ontologies and (b) specialized autonomous agents dedicated to ensuring the construction of ontologies from unstructured databases, such as manuals, Web sites, among others, ensuring that all information collected and of interest to the MLO is properly updated. Agents are exclusive collaborators with very specific guidelines. Therefore, they can only serve the production of axioms in the **.owl** format.
 Humans can collaborate over **.owl** files and benefit from the entire knowledge base in the SKAU environment.
 
 The collaboration mechanism is an extremely sensitive process and must follow well-established rules. For this reason, a model was designed as shown in the Figure 4.
