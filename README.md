@@ -6,7 +6,7 @@
 
 ## 1. Preliminaries
 
-The **ml-ontology-202010021305-11.owl** file (Protégé 5 compatible), is an ontology in the Machine Learning domain, including algorithms, problems, tools, and other associated features. This ontology is being developed in an interactive collaboration process involving human beings and software agents.
+The **ml-ontology-version.owl** file (Protégé 5 compatible, available in https://osf.io/chu5q/), is an ontology in the Machine Learning domain, including algorithms, problems, tools, and other associated features. This ontology is being developed in an interactive collaboration process involving human beings and software agents.
 
 ### In this version, here are some of the Ontology Metrics in Protégé's Active Ontology.
 - Axiom: 1,877
