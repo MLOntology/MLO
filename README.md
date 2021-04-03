@@ -80,6 +80,6 @@ If you want more information, please email to **info at a2rd dot net dot br**.
 
 ## 4. References
 
-BRAGA, J. Ambiente para Aquisição de Conhecimento por Agentes em Domínios Restritos na Infraestrutura da Internet. Tese (Doutorado) — Instituto Superior Técnico & Universidade Presbiteriana Mackenzie, 2019.
+BRAGA, J.Environment for Knowledge Acquisition by Agents in Internet Infrastructur-eRestricted Domains. Tese (Doutorado) — Instituto Superior Tecnico & UniversidadePresbiteriana Mackenzie, 2019. DOI: 10.31237/osf.io/83ztf. English version translatedby author. Available in https://thesiscommons.org/83ztf/.
 
 **Content license:** [Creative Commons 4.0 BY](http://creativecommons.org/licenses/by/4.0/) 
